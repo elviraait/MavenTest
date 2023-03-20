@@ -38,7 +38,7 @@ public class FluentkzBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "6142251078:AAEDe-OqtpKOIem1Iyi0DBcCF0Pm-woJLVU";
+        return "null";
     }
 
     private void log(String first_name, String last_name, String user_id, String txt, String bot_answer) {
